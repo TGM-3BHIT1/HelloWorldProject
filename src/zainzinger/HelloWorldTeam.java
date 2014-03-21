@@ -16,10 +16,14 @@ public class HelloWorldTeam {
 		System.out.println("Schöne Grüße von Lukas!");
 	}
 	
+	public static void Patricia(){
+		System.out.println("Schöne Grüße von Patricia!");
+	}
 	public static void main(String[] args) {
 	
 		HelloWorldTeam.lukas();
 		HelloWorldTeam.cindy();
+		HelloWorldTeam.patricia();
 
 	}
 
