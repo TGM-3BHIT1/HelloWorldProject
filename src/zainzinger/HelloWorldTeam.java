@@ -1,19 +1,25 @@
-/**
- * 
- */
 package zainzinger;
 
 /**
  * @author lzainzinger
+ * @author clehner
  *
  */
 public class HelloWorldTeam {
 
-	/**
-	 * @param args
-	 */
+	public static void cindy() {
+		System.out.println("Schöne Grüße von Cindy!");
+	}
+	
+	
+	public static void lukas() {
+		System.out.println("Schöne Grüße von Lukas!");
+	}
+	
 	public static void main(String[] args) {
-		System.out.println("Hello World! lzainzinger!");
+	
+		HelloWorldTeam.lukas();
+		HelloWorldTeam.cindy();
 
 	}
 
