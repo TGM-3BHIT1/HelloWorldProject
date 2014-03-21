@@ -1,0 +1,12 @@
+commit 615267daed9739454df047e8b9e9be3e7c8e53ca
+Author: tgm1314-skreutzer <skreutzer@student.tgm.ac.at>
+Date:   Fri Mar 21 11:24:41 2014 +0100
+
+    Hallo
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/kreutzer/HelloWorldTeam.java     | 25 +++++++++++++++++++++++++
+ 5 files changed, 60 insertions(+)
